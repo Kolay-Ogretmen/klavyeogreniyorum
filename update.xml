@@ -2,7 +2,6 @@
 <item>
     <version>1.3.0.3</version>
     <url>https://github.com/user-attachments/files/32806678/Klavye.Ogreniyorum.zip</url>
-    <changelog>Versiyon 1.3.0.3 Yayında!</changelog>
-    <changelog>Hemen Güncelle!</changelog>
+    <changelog><![CDATA[<h3>Yeni Sürüm Notları:</h3><ul><li>Ağ optimizasyonları yapıldı.</li><li>Hatalar giderildi.</li></ul>]]></changelog>
     <mandatory>false</mandatory>
 </item>
