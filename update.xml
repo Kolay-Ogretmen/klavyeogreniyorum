@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GuncellemeBilgisi>
-    <Versiyon>1.3.0</Versiyon>
-    <IndirmeLinki>https://github.com/user-attachments/files/32924642/setup.zip</IndirmeLinki>
-    <SurumNotlari>• 01.10.2026 Güncellemesi.
-• Hatalar giderildi ve performans artırıldı.</SurumNotlari>
+    <Versiyon>1.2.0</Versiyon>
+    <IndirmeLinki>https://github.com/user-attachments/files/32930549/setup.zip</IndirmeLinki>
+    <SurumNotlari>• Versiyon 1.2.0 Güncellemesi.
+• Güncelleme penceresi eklendi.</SurumNotlari>
     <Zorunlu>false</Zorunlu>
 </GuncellemeBilgisi>
