@@ -2,9 +2,11 @@
 <GuncellemeBilgisi>
     <Versiyon>1.2.2</Versiyon>
     <IndirmeLinki>https://github.com/user-attachments/files/32968051/setup.zip</IndirmeLinki>
-    <SurumNotlari>• Dark mod ile göz yormayan bir görünüme geçildi.
+    <SurumNotlari>
+    • Dark mod ile göz yormayan bir görünüme geçildi.
     • Oyun bittikten sonra çıkan bilgi penceresi artık daha modern.
     • Artık lobiden ayrıldığında bilgi penceresi açılmıyor.
-    * Oyuncunun sadece en yüksek puanı skorlar tabelasına yazılacak. Tekrar eden isimler olmayacak.</SurumNotlari>
+    * Oyuncunun sadece en yüksek puanı skorlar tabelasına yazılacak. Tekrar eden isimler olmayacak.
+    </SurumNotlari>
     <Zorunlu>false</Zorunlu>
 </GuncellemeBilgisi>
