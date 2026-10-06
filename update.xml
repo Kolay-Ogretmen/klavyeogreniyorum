@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GuncellemeBilgisi>
-    <Versiyon>1.2.2</Versiyon>
-    <IndirmeLinki>https://github.com/user-attachments/files/32968051/setup.zip</IndirmeLinki>
+    <Versiyon>1.2.3</Versiyon>
+    <IndirmeLinki>https://github.com/user-attachments/files/33123621/setup.zip</IndirmeLinki>
     <SurumNotlari>
         * Puanları eşit olan öğrenciler artık hıza göre listelenecek. Hızı çok olan üstte görünecek.
+        * Kazanan oyuncular için kutlamalar daha havalı oldu.
     </SurumNotlari>
     <Zorunlu>false</Zorunlu>
 </GuncellemeBilgisi>
